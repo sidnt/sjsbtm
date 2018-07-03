@@ -1,0 +1,5 @@
+Port sjs basic tutorial to mill. ~sjsbtm~ is our root directory housing the project.
+
+- ~sjsbtm/HWApp~ dir houses our simple hello world app.
+- ~build.sc~ will be used to manage the mill build for ~HWApp~ dir.
+- ~HWApp.scala~ houses the program.
